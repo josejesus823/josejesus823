@@ -20,7 +20,7 @@ I'm passionate about programming and technology. I enjoy exploring new languages
 
 - 🔭 I’m currently working on [x-commerce](https://github.com/santiago123x/x-commerce-project-front)
 
-- 🌱 I’m currently learning **Currently learning AWS and gaining hands-on experience with core cloud services like EC2, S3,VPC and IAM.**
+- 🌱 I'm currently learning AWS and gaining hands-on experience with core cloud services like EC2, S3,VPC and IAM.
 
 - 🤝 Personal LinkedIn [Click here](https://www.linkedin.com/in/jose-vargas-m/)  
 
