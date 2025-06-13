@@ -12,7 +12,7 @@
 <br>
 
 ## ☀️ **About me**
-I'm passionate about programming and technology. I enjoy exploring new languages and tools to solve problems creatively. I also love tackling competitive logic challenges Here, you'll find details about my projects, skills, and the technologies I work with.
+I'm passionate about programming and technology. I enjoy exploring new languages and tools to solve problems creatively. I also love tackling competitive logic challenges Here, you'll find details about my projects skills, and the technologies I work with.
 
 <br>
 
